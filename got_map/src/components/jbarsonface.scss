@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &__button {
+        width: 100%;
+        margin-top: 10rem;
+        background-color: black;
+        color: #c6ba94;
+        border: none;
+        outline: none;
+        font-size: 2rem;
+    }
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Aidan the Happy",
+    "title": "The Knight of Safeway",
+    "location": "Oregon",
+    "description": "Aidan is always happy and defends the defenseless whenever he is met with the opportunity.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NQMU3R42-ad7d73c35ab4-512"
+  },
+  {
+    "id": 2,
+    "name": "Matthew Joseph",
+    "title": "My middle name is Matthew",
+    "location": "Vancouver",
+    "description": "Wait, we could've called you Matthew??",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NQMU9D5G-d65d8d83262c-512"
+  },
+  {
+    "id": 3,
+    "name": "Albert HA HA HA Man",
+    "title": "The Voice of the People in Toronto",
+    "location": "Toronto",
+    "description": "Living up to his name, Albert has single handedly made 'Ha Ha Ha' well known in the community. When you hear it, prepare for a contagious epidemic of laughter.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D0Q9LP-a41f0fa98193-512"
+  },
+  {
+    "id": 4,
+    "name": "Andre Jaeger",
+    "title": "The Soldier from Waterloo",
+    "location": "Waterloo",
+    "description": "After many years training to slay code demons in Waterloo, Andre attacks bugs in code at any given chance. Whispers on streets say he is secretly the 'Attack Titan'.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NUK2NG7L-48ff5f92ee7b-512"
+  },
+  {
+    "id": 5,
+    "name": "Google Lu",
+    "title": "The Google",
+    "location": "Vancouver",
+    "description": "Once known as 'Charles', Google Lu would always take anyones code and be able to solve it -- sometimes even making it better. One would look at his code and ask... 'But Google Lu... Why?'",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D1LC1M-ff75f5b78e12-512"
+  },
+  {
+    "id": 6,
+    "name": "Halley Closetmaster",
+    "title": "Literally the Best Closet in Canada",
+    "location": "Montreal",
+    "description": "Originally from 'not Montreal', Halley is sharpening her knife to leave Montreal at any moment, but little does she know... she shouldn't because then you have to say bye to that closet.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D16ABZ-g05c9e9802bd-512"
+  },
+  {
+    "id": 7,
+    "name": "Heather Fierce",
+    "title": "Week Three, Never forget",
+    "location": "Toronto",
+    "description": "Heather came into the coding world as the brightest and naive of the population. However, in her third week in the code world, she released her hidden power of the fiercest freaking out the world had ever seen. That week, the world watched as she imploded and became 'Heather Fierce'",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01PA3L1PR6-ef9aa6610c93-512"
+  },
+  {
+    "id": 8,
+    "name": "Henry Transcendant",
+    "title": "The Silent Assassin",
+    "location": "Vancouver",
+    "description": "The quiet Henry never spoke. Never interacted. He only coded in solitude and reached Transcendance alone, while the world suffered. Henry Transcendant has reached a level of coding that most would never be able to touch.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01PA3KPDEC-bf270f9261bc-512"
+  },
+  {
+    "id": 9,
+    "name": "Jakey Hildey",
+    "title": "The Man in the Cabin",
+    "location": "Vancouver",
+    "description": "Jakey Hildey is a scholar who can defuse any problem in code through research and hardwork, especially in his cabin. However... when he isn't in his cabin, can someone get this guy's address and buy him a new mic please?",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NMFRQZE1-g95c36a956fa-512"
+  },
+  {
+    "id": 10,
+    "name": "Top Gun Jensen",
+    "title": "The Wizard of the Flight",
+    "location": "Toronto",
+    "description": "One half of team Brilliant or Potatoes. Jensen is a tamer of dragons and master of flight. But of course, with genius intellect follows moments of a potato. It's sometimes a miracle how he survives in streets of Wagwanhort",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01PA3KV6SC-623a45c92238-512"
+  },
+  {
+    "id": 11,
+    "name": "Jon Fosterparent",
+    "title": "The Fosterparent of Vancouver",
+    "location": "Vancouver",
+    "description": "Living up to his name, Jon uses the resources in his brain and his quick wits to help the unfortunate however he can. Just like your ideal Foster Parent.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D0V2DV-f712fa62055b-512"
+  },
+  {
+    "id": 12,
+    "name": "Josh the Lost",
+    "title": "The Lost Tactician",
+    "location": "Toronto",
+    "description": "Josh boasts super high intelligence and a massive amount of sense when it comes to cutthroat situations. But with great power, comes great responsibilty... but he has no responsibility when he's lost half the time.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01PA3KT8MN-5b530b1acecb-512"
+  },
+  {
+    "id": 13,
+    "name": "Brazillian Jesus",
+    "title": "His Holiness from Brazil",
+    "location": "Vancouver",
+    "description": "With looks like Jesus and hailing from Brazil -- a killer combination to get the coders to go 'woo' and pulling miracles to finishing projects on-time NO MATTER WHAT.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NL6BUP3L-0861800533fc-512"
+  },
+  {
+    "id": 14,
+    "name": "Mari Attitude",
+    "title": "The Attitude in the North",
+    "location": "Ottawa",
+    "description": "Sassy Mari and her Web Dev Attitude helped her survive the hard streets of Ottawa. Her ability to change her mood from zero to a hundred gives her the killer instinct to slay her coding demons.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D1N6LX-b56939ed2c67-512"
+  },
+  {
+    "id": 15,
+    "name": "High Speed",
+    "title": "Ninth Gear Coder;",
+    "location": "British Columbia",
+    "description": "Before reaching high speed thinking, Myles was an innocent soul never exposed to the coding world until he accidently ran into a God of Coding. His brain was forever transformed that day and now is unable to slow down his thinking process.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D1A96K-ee4f481c0514-512"
+  },
+  {
+    "id": 16,
+    "name": "Peter San Antonio",
+    "title": "Bloodshot Eyes and Sunset Tequilas",
+    "location": "Texas",
+    "description": "Peter was always your average joe -- blue collar hardworking man. That's until he decided to leap down the rabbit hole called Brainstation. However, the work ethic still stuck with Pete as he keeps his head afloat. The only thing that's changed is the amount he drinks and the amount of times yells 'San Antonio' at every bug or typo.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NRGHS677-84d2d1e6d9e8-512"
+  },
+  {
+    "id": 17,
+    "name": "Sean Steele",
+    "title": "Colt Steele Simp",
+    "location": "California",
+    "description": "Sean was a non-believer until he met Colt Steele at Udemy. Devoting his life to Colt Steele, he preaches to whoever he can about Colt Steele and his work. It's inspired him to become the coder he is today.",
+    "image": "https://i.imgur.com/wcE5RTV.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Massa Siddhart",
+    "title": "The Nomadic Scrum Massa",
+    "location": "Toronto",
+    "description": "Sidd has travelled all over the world to make the world a better place. Learning different cultures and living in different parts of the world has opened his eyes to a state of peace with the world. The Massa of Chilling and serenity, Sidd is never afraid and is always calm in any situation.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D1C4AK-53f64a2ef4c0-512"
+  },
+  {
+    "id": 19,
+    "name": "WAGWAN BABY",
+    "title": "Fuhgetuhboutit, Get da fu* outta hea",
+    "location": "New York",
+    "description": "Born and raised in the HARD STREETS OF NEW YORK. Before Wagwanhort, Steve never had much interaction with the North, finding the place absolutely peculiar with their 'zeds' at first. Overtime Steve has grown fond of the people in the North and made life-long companionship with them.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D1PV39-8e781d88c7e3-512"
+  },
+  {
+    "id": 20,
+    "name": "Timurnator",
+    "title": "The Code Timurnator",
+    "location": "Toronto",
+    "description": "Timurnator is a cyborg from the foreign lands of Russia. His ability to decipher a situation and take brutal measures to fix them has given him the reputation as the Timurnator. Til this day, no one knows how to stop this guy.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01N5D1G99V-c4cfd6cff265-512"
+  },
+  {
+    "id": 21,
+    "name": "Ari the Warden",
+    "title": "The Warden in the North",
+    "location": "Ottawa",
+    "description": "Ari wasn't always the warden. She was a precursor to what was to become of the people. Having been through the hellish world we live in now and live to tell the tale, she took upon the role as the Warden in the North to guide those in need... when they need it most.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NR42UJMR-5ad8c7b56f71-512"
+  },
+  {
+    "id": 22,
+    "name": "Dapper A. Nugent",
+    "title": "The Pillar of Valor",
+    "location": "British Columbia",
+    "description": "With looks that kill and a presence that inspires -- Dapper A. Nugent is the definition of self-sacrifice. A shield for the people and always putting others before him, he stands as a Pillar of Valor to keep the foundations afloat.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NR431SKD-820b687a40e9-512"
+  },
+  {
+    "id": 23,
+    "name": "Jonathan Barson",
+    "title": "The King",
+    "location": "Toronto",
+    "description": "The Ruler of the Domain, Jonathan Barson, his Grace, looks over his flock with his knowledge and wisdom. As the Overseer of the Domain, Jonathan Barson works to make sure his people are happy.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01P91K4672-b9cfeafbf74b-512"
+  },
+  {
+    "id": 24,
+    "name": "Maven Rosentzveig",
+    "title": "The Maven of Front End Dev",
+    "location": "Toronto",
+    "description": "The Maven is a devastating force of nature that can single handedly destroy a web dev who dares to oppose her. As the Hand of the King, she makes sure the people are passed down the wisdom of the king through brutal book beatings. But behind the scary front end of the Maven, is a soft motherly backend. In the end, she truly cares for her people.",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01NRB318PN-f22102d3ee8e-512"
+  },
+  {
+    "id": 25,
+    "name": "Patti the Swifter",
+    "title": "The Queen of Timmins",
+    "location": "Timmins",
+    "description": "Patti is the lone Queen in the Land of Timmins. Although she experiences her daily disconnects from the internet, that never stops her from finishing any project with her SWIFT FINGERS AND HER CODEALONGS before the daily disconnect. Long live the Queen of Timmins!",
+    "image": "https://ca.slack-edge.com/T01N11LCR55-U01P3GJ8KCH-4d1c259a10f0-512"
+  }
+]

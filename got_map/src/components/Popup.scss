@@ -1,0 +1,48 @@
+.pop-up {
+    margin-left:50px;
+  &__container {
+    color: white;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    width: 500px;
+    height: 900px;
+    overflow: scroll;
+  }
+  &__person-card {
+    border: 1px white solid;
+    border-top: none;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  &__person-name {
+    margin-top: 1rem;
+  }
+  &__person-location {
+    margin-top: 1rem;
+  }
+  &__person-description {
+    margin: 2rem 0;
+    font-size: 14px;
+    width: 56%;
+    line-height: 200%;
+  }
+  &__person-img {
+    margin-top: 2rem;
+    width: 200px;
+  }
+  &__btn {
+    background-color: black;
+    border: none;
+    color: white;
+    width: 4%;
+    cursor: pointer;
+    align-self: flex-end;
+    padding: 0;
+    margin-right: 0.5vw;
+    margin-top: 1vh;
+  }
+}

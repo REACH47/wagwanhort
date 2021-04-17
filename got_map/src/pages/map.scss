@@ -1,0 +1,127 @@
+@use "../partials/mixins" as *;
+
+button:hover {
+  filter: blur(1px);
+  transition: 1s ease-in-out;
+}
+
+button {
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  color: #c6ba94;
+}
+
+.map {
+  &__image {
+    background-image: url("../assets/map.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 700px;
+    height: 1543px;
+  }
+
+  &__timmins {
+    @include btn-set;
+    position: relative;
+    bottom: 1321px;
+    left: 443px;
+  }
+
+  &__california {
+    background-color: #0084c2;
+    @include btn-set;
+    position: relative;
+    bottom: 554px;
+    right: 17px;
+  }
+
+  &__texas {
+    @include btn-set;
+    background-color: #ee6900;
+    position: relative;
+    bottom: 151px;
+    left: 460px;
+  }
+
+  &__new-york {
+    @include btn-set;
+    background-color: #171718;
+    position: relative;
+    bottom: 494px;
+    left: 305px;
+  }
+
+  &__oregon {
+    @include btn-set;
+    background-color: #44d62c;
+    position: relative;
+    bottom: 324px;
+    left: 95px;
+  }
+
+  &__montreal {
+    @include btn-set;
+    background-color: #b3dce2;
+    position: relative;
+    bottom: 570px;
+    left: 538px;
+  }
+
+  &__ottawa {
+    @include btn-set;
+    background-color: #efb9c0;
+    position: relative;
+    bottom: 711px;
+    left: 414px;
+  }
+
+  &__toronto {
+    @include btn-set;
+    background-color: #dd1126;
+    position: relative;
+    bottom: 650px;
+    left: 268px;
+  }
+
+  &__waterloo {
+    @include btn-set;
+    background-color: #585d6d;
+    position: relative;
+    bottom: 699px;
+    left: 42px;
+  }
+
+  &__vancouver {
+    @include btn-set;
+    background-color: #5f249f;
+    position: relative;
+    bottom: 1088px;
+    left: 318px;
+  }
+
+  &__bc {
+    @include btn-set;
+    background-color: #ffcd00;
+    position: relative;
+    bottom: 1116px;
+    left: 436px;
+  }
+}
+
+// COLOR FOR CITIES:
+// TEXAS: ORANGE
+// OREGON: LIGHT GREEN
+// CALIFORNIA: BLUE
+// NY: BLACK
+// MONTREAL: LIGHT BLUE/TEAL
+// OTTAWA: PINK
+// TORONTO: RED
+// WATERLOO: GRAY
+// VANCOUVER: PURPLE
+// BC: YELLOW
+// TIMMINS: WHITE
